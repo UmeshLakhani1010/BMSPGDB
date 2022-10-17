@@ -1,0 +1,14 @@
+INSERT INTO payment.ipgstatuslink (id, statusid, pgstatusid) VALUES (1, 5, 1);
+INSERT INTO payment.ipgstatuslink (id, statusid, pgstatusid) VALUES (2, 6, 2);
+INSERT INTO payment.ipgstatuslink (id, statusid, pgstatusid) VALUES (5, 6, 4);
+INSERT INTO payment.ipgstatuslink (id, statusid, pgstatusid) VALUES (4, 6, 5);
+INSERT INTO payment.ipgstatuslink (id, statusid, pgstatusid) VALUES (3, 6, 3);
+INSERT INTO payment.ipgstatuslink (id, statusid, pgstatusid) VALUES (6, 5, 6);
+INSERT INTO payment.ipgstatuslink (id, statusid, pgstatusid) VALUES (7, 5, 7);
+INSERT INTO payment.ipgstatuslink (id, statusid, pgstatusid) VALUES (8, 6, 8);
+INSERT INTO payment.ipgstatuslink (id, statusid, pgstatusid) VALUES (9, 6, 9);
+INSERT INTO payment.ipgstatuslink (id, statusid, pgstatusid) VALUES (10, 6, 11);
+INSERT INTO payment.ipgstatuslink (id, statusid, pgstatusid) VALUES (11, 6, 13);
+INSERT INTO payment.ipgstatuslink (id, statusid, pgstatusid) VALUES (12, 4, 10);
+INSERT INTO payment.ipgstatuslink (id, statusid, pgstatusid) VALUES (13, 4, 12);
+INSERT INTO payment.ipgstatuslink (id, statusid, pgstatusid) VALUES (14, 6, 14);

@@ -1,0 +1,14 @@
+INSERT INTO payment.ipgstatus (pgstatusid, pgstatus, pgid) VALUES (5, 'TIMEOUT', 9);
+INSERT INTO payment.ipgstatus (pgstatusid, pgstatus, pgid) VALUES (2, 'FAILURE', 9);
+INSERT INTO payment.ipgstatus (pgstatusid, pgstatus, pgid) VALUES (1, 'SUCCESS', 9);
+INSERT INTO payment.ipgstatus (pgstatusid, pgstatus, pgid) VALUES (3, 'ABORTED', 9);
+INSERT INTO payment.ipgstatus (pgstatusid, pgstatus, pgid) VALUES (4, 'INVALID', 9);
+INSERT INTO payment.ipgstatus (pgstatusid, pgstatus, pgid) VALUES (6, 'SHIPPED', 9);
+INSERT INTO payment.ipgstatus (pgstatusid, pgstatus, pgid) VALUES (7, 'SUCCESSFUL', 9);
+INSERT INTO payment.ipgstatus (pgstatusid, pgstatus, pgid) VALUES (8, 'AUTO-CANCELLED', 9);
+INSERT INTO payment.ipgstatus (pgstatusid, pgstatus, pgid) VALUES (9, 'AUTO-REVERSED', 9);
+INSERT INTO payment.ipgstatus (pgstatusid, pgstatus, pgid) VALUES (10, 'AWAITED', 9);
+INSERT INTO payment.ipgstatus (pgstatusid, pgstatus, pgid) VALUES (11, 'CANCELLED', 9);
+INSERT INTO payment.ipgstatus (pgstatusid, pgstatus, pgid) VALUES (12, 'INITIATED', 9);
+INSERT INTO payment.ipgstatus (pgstatusid, pgstatus, pgid) VALUES (13, 'REFUNDED', 9);
+INSERT INTO payment.ipgstatus (pgstatusid, pgstatus, pgid) VALUES (14, 'UNSUCCESSFUL', 9);
